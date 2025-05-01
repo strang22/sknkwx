@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "generatedAt": "2025-05-01T22:09:10.635Z",
+    "tasksAnalyzed": 14,
+    "thresholdScore": 5,
+    "projectName": "Your Project Name",
+    "usedResearch": false
+  },
+  "complexityAnalysis": [
+    {
+      "taskId": 2,
+      "taskTitle": "Design System Implementation",
+      "complexityScore": 8,
+      "recommendedSubtasks": 7,
+      "expansionPrompt": "Break down the design system implementation into specific subtasks covering font configuration, color palette setup, component creation for each visual element type, documentation, and integration testing",
+      "reasoning": "High complexity due to multiple technical components (styled-components/Tailwind, fonts, color system) and creation of various visual elements. Requires both technical implementation and documentation."
+    },
+    {
+      "taskId": 3,
+      "taskTitle": "Responsive Layout Foundation",
+      "complexityScore": 7,
+      "recommendedSubtasks": 6,
+      "expansionPrompt": "Divide the responsive layout foundation into subtasks for each component type (header, footer, navigation), grid system implementation, breakpoint development, and cross-device testing",
+      "reasoning": "Requires development of multiple layout components with responsive behavior across different screen sizes. Needs careful planning for consistent spacing and alignment."
+    },
+    {
+      "taskId": 4,
+      "taskTitle": "Authentication System Implementation",
+      "complexityScore": 9,
+      "recommendedSubtasks": 8,
+      "expansionPrompt": "Break down the authentication system into subtasks covering library setup, user flows (login, logout, password reset), JWT implementation, role-based access control, state management, protected routes, and security testing",
+      "reasoning": "High complexity due to security requirements, multiple user flows, and technical implementation details like JWT and role-based access control. Security considerations add significant complexity."
+    },
+    {
+      "taskId": 5,
+      "taskTitle": "Project Data Model and API",
+      "complexityScore": 8,
+      "recommendedSubtasks": 7,
+      "expansionPrompt": "Divide the data model and API implementation into subtasks for schema design, API endpoint creation, validation logic, mock data setup, pagination implementation, and documentation",
+      "reasoning": "Complex task involving data modeling, API design, validation logic, and preparation for future CMS integration. Requires careful planning for data structures and API patterns."
+    },
+    {
+      "taskId": 6,
+      "taskTitle": "Project Showcase Grid/List Component",
+      "complexityScore": 7,
+      "recommendedSubtasks": 6,
+      "expansionPrompt": "Break down the project showcase component into subtasks for responsive grid/list layout, filtering functionality, sorting implementation, pagination/infinite scroll, transition animations, and performance optimization",
+      "reasoning": "Moderately complex with multiple interactive features (filtering, sorting, pagination) and performance considerations. Depends on multiple other components being completed first."
+    },
+    {
+      "taskId": 7,
+      "taskTitle": "Clearance Tier System Implementation",
+      "complexityScore": 8,
+      "recommendedSubtasks": 7,
+      "expansionPrompt": "Divide the clearance tier system into subtasks for tier logic implementation, visual treatment development for each tier, authentication integration, state transition handling, and testing across different user roles",
+      "reasoning": "Complex due to the need to integrate with authentication, implement different visual treatments based on clearance levels, and handle state transitions smoothly."
+    },
+    {
+      "taskId": 8,
+      "taskTitle": "Project Card Component Development",
+      "complexityScore": 6,
+      "recommendedSubtasks": 5,
+      "expansionPrompt": "Break down the project card component into subtasks for base card design, interactive state implementation, clearance-specific styling, accessibility features, and performance optimization",
+      "reasoning": "Moderate complexity focused on a single component with various states and styling requirements. Accessibility and performance considerations add some complexity."
+    },
+    {
+      "taskId": 9,
+      "taskTitle": "Project Detail Page Implementation",
+      "complexityScore": 8,
+      "recommendedSubtasks": 7,
+      "expansionPrompt": "Divide the project detail page implementation into subtasks for page layout, conditional content rendering based on clearance, authentication gate, interactive elements, responsive design, navigation components, and related projects section",
+      "reasoning": "Complex task requiring integration of clearance levels, authentication, and multiple interactive elements. Needs to handle different content variations based on user access level."
+    },
+    {
+      "taskId": 10,
+      "taskTitle": "Test Pilot Registration Flow",
+      "complexityScore": 7,
+      "recommendedSubtasks": 6,
+      "expansionPrompt": "Break down the registration flow into subtasks for multi-step form design, validation implementation, benefits showcase, authentication integration, email verification, and accessibility testing",
+      "reasoning": "Moderately complex with multi-step form implementation, validation requirements, and integration with authentication system. Email verification adds technical complexity."
+    },
+    {
+      "taskId": 11,
+      "taskTitle": "User Profile Management",
+      "complexityScore": 6,
+      "recommendedSubtasks": 6,
+      "expansionPrompt": "Divide user profile management into subtasks for dashboard design, profile editing functionality, notification preferences, access level display, NFT tracking, password change flow, and account deletion",
+      "reasoning": "Moderate complexity with several related features centered around user profile management. Security considerations for password changes and account deletion add some complexity."
+    },
+    {
+      "taskId": 12,
+      "taskTitle": "Interactive UI Elements and Animations",
+      "complexityScore": 7,
+      "recommendedSubtasks": 6,
+      "expansionPrompt": "Break down the UI elements and animations into subtasks for grain effects, page transition animations, progress bar animations, redaction effects, performance optimization, and accessibility considerations",
+      "reasoning": "Moderately complex with various animation types requiring both CSS and JavaScript implementation. Performance and accessibility considerations add significant complexity."
+    },
+    {
+      "taskId": 13,
+      "taskTitle": "CMS Integration",
+      "complexityScore": 8,
+      "recommendedSubtasks": 7,
+      "expansionPrompt": "Divide CMS integration into subtasks for CMS selection, content model setup, API connection implementation, preview functionality, image optimization, workflow documentation, and testing",
+      "reasoning": "Complex task involving selection and integration of a headless CMS, setting up content models, and implementing various technical features like preview and image optimization."
+    },
+    {
+      "taskId": 14,
+      "taskTitle": "Performance and SEO Optimization",
+      "complexityScore": 8,
+      "recommendedSubtasks": 7,
+      "expansionPrompt": "Break down optimization into subtasks for code splitting implementation, SSR/SSG setup, image optimization, meta tag configuration, sitemap creation, structured data implementation, analytics setup, and performance testing",
+      "reasoning": "Complex with multiple technical optimization techniques spanning performance, SEO, and analytics. Requires deep technical knowledge across several domains."
+    },
+    {
+      "taskId": 15,
+      "taskTitle": "Accessibility Compliance and Final Testing",
+      "complexityScore": 9,
+      "recommendedSubtasks": 8,
+      "expansionPrompt": "Divide accessibility compliance and testing into subtasks for WCAG audit, keyboard navigation testing, screen reader compatibility, color contrast verification, focus management, cross-browser testing, security testing, and documentation",
+      "reasoning": "Highly complex task requiring comprehensive testing across multiple dimensions (accessibility, browsers, devices, security). Depends on almost all other tasks being completed first."
+    }
+  ]
+}
