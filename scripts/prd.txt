@@ -1,0 +1,77 @@
+# SKNKWX (Skunk Works) Marketing Website PRD
+
+## Project Overview
+SKNKWX is an innovation studio focusing on AI-native, B2B go-to-market products. The marketing website will serve as a dynamic platform to showcase projects across different clearance tiers while maintaining a playful, secretive aesthetic.
+
+## Core Features
+
+### 1. Project Showcase
+- Dynamic grid/list of project cards
+- Three clearance tiers with distinct visual treatments:
+  - Top Secret: Codename only, heavily redacted
+  - Secret: Partial information, restricted access
+  - Declassified: Full product details
+- Interactive card design with clearance-specific styling
+- Responsive layout for all devices
+
+### 2. Project Detail Pages
+- Tier-specific content display:
+  - Top Secret: Minimal teaser information
+  - Secret: Partial details with authentication gate
+  - Declassified: Complete product information
+- Authentication integration for Test Pilots
+- Interactive redaction effects
+- Project status and progress indicators
+
+### 3. Test Pilot Registration
+- Streamlined registration flow
+- Benefits showcase:
+  - Early access privileges
+  - Exclusive discounts
+  - NFT mission patches
+- Authentication system integration
+- User profile management
+
+## Technical Requirements
+
+### Design System
+- Typography:
+  - Space Mono for codenames/stamps
+  - Inter for body text
+- Color Palette:
+  - Base: Off-black (#0D0D0D), Bone-white (#FAFAF7)
+  - Status: Clearance Red (#E62325), Secret Amber (#FF9E2C), Declass Green (#1DB954)
+- Visual Elements:
+  - Stamped headings
+  - Redaction bars
+  - OCR-style labels
+  - Mission patch icons
+- Motion Design:
+  - Cursor-activated grain effects
+  - Progress bar animations
+  - Smooth transitions
+
+### Technical Specifications
+- Modern web application architecture
+- Responsive design
+- WCAG 2.2 AA compliance
+- Performance optimization
+- SEO optimization
+- Secure authentication
+- Interactive UI elements
+- Content management system integration
+
+### Security Requirements
+- Secure user authentication
+- Role-based access control
+- Protected project information
+- Secure API endpoints
+- Data encryption
+
+## Success Metrics
+- User engagement with project showcase
+- Test Pilot registration rate
+- Project detail page interactions
+- Authentication success rate
+- Overall site performance
+- Accessibility compliance
