@@ -1,0 +1,239 @@
+{
+  "/Users/scottstrang/sknkwx/src/components/layout/Footer.tsx": {
+    "path": "/Users/scottstrang/sknkwx/src/components/layout/Footer.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 24 },
+        "end": { "line": 1, "column": null }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "Footer",
+        "decl": {
+          "start": { "line": 1, "column": 24 },
+          "end": { "line": 1, "column": null }
+        },
+        "loc": {
+          "start": { "line": 1, "column": 24 },
+          "end": { "line": 51, "column": null }
+        }
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 0 },
+    "f": { "0": 0 },
+    "b": {}
+  },
+  "/Users/scottstrang/sknkwx/src/components/layout/Header.tsx": {
+    "path": "/Users/scottstrang/sknkwx/src/components/layout/Header.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 24 },
+        "end": { "line": 1, "column": null }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "Header",
+        "decl": {
+          "start": { "line": 1, "column": 24 },
+          "end": { "line": 1, "column": null }
+        },
+        "loc": {
+          "start": { "line": 1, "column": 24 },
+          "end": { "line": 19, "column": null }
+        }
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 1 },
+    "f": { "0": 1 },
+    "b": {}
+  },
+  "/Users/scottstrang/sknkwx/src/components/layout/MainLayout.tsx": {
+    "path": "/Users/scottstrang/sknkwx/src/components/layout/MainLayout.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 9, "column": 24 },
+        "end": { "line": 9, "column": 35 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 19 },
+        "end": { "line": 2, "column": null }
+      },
+      "2": {
+        "start": { "line": 3, "column": 19 },
+        "end": { "line": 3, "column": null }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "MainLayout",
+        "decl": {
+          "start": { "line": 9, "column": 24 },
+          "end": { "line": 9, "column": 35 }
+        },
+        "loc": {
+          "start": { "line": 9, "column": 64 },
+          "end": { "line": 19, "column": null }
+        }
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 0, "1": 0, "2": 0 },
+    "f": { "0": 0 },
+    "b": {}
+  },
+  "/Users/scottstrang/sknkwx/src/lib/theme.ts": {
+    "path": "/Users/scottstrang/sknkwx/src/lib/theme.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 13 },
+        "end": { "line": 1, "column": 21 }
+      },
+      "1": {
+        "start": { "line": 1, "column": 21 },
+        "end": { "line": 18, "column": null }
+      }
+    },
+    "fnMap": {},
+    "branchMap": {},
+    "s": { "0": 0, "1": 0 },
+    "f": {},
+    "b": {}
+  },
+  "/Users/scottstrang/sknkwx/src/utils/env.ts": {
+    "path": "/Users/scottstrang/sknkwx/src/utils/env.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 7, "column": 13 },
+        "end": { "line": 7, "column": 22 }
+      },
+      "1": {
+        "start": { "line": 21, "column": 13 },
+        "end": { "line": 21, "column": 28 }
+      },
+      "2": {
+        "start": { "line": 7, "column": 25 },
+        "end": { "line": 15, "column": null }
+      },
+      "3": {
+        "start": { "line": 8, "column": 16 },
+        "end": { "line": 8, "column": null }
+      },
+      "4": {
+        "start": { "line": 10, "column": 2 },
+        "end": { "line": 12, "column": null }
+      },
+      "5": {
+        "start": { "line": 11, "column": 4 },
+        "end": { "line": 11, "column": null }
+      },
+      "6": {
+        "start": { "line": 14, "column": 2 },
+        "end": { "line": 14, "column": null }
+      },
+      "7": {
+        "start": { "line": 21, "column": 31 },
+        "end": { "line": 26, "column": null }
+      },
+      "8": {
+        "start": { "line": 22, "column": 2 },
+        "end": { "line": 24, "column": null }
+      },
+      "9": {
+        "start": { "line": 23, "column": 4 },
+        "end": { "line": 23, "column": null }
+      },
+      "10": {
+        "start": { "line": 25, "column": 2 },
+        "end": { "line": 25, "column": null }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 7, "column": 25 },
+          "end": { "line": 7, "column": 26 }
+        },
+        "loc": {
+          "start": { "line": 7, "column": 39 },
+          "end": { "line": 15, "column": null }
+        }
+      },
+      "1": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": { "line": 21, "column": 31 },
+          "end": { "line": 21, "column": 32 }
+        },
+        "loc": {
+          "start": { "line": 21, "column": 45 },
+          "end": { "line": 26, "column": null }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 8, "column": 16 },
+          "end": { "line": 8, "column": null }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 8, "column": 16 },
+            "end": { "line": 8, "column": 32 }
+          },
+          {
+            "start": { "line": 8, "column": 36 },
+            "end": { "line": 8, "column": null }
+          }
+        ]
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 10, "column": 2 },
+          "end": { "line": 12, "column": null }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 10, "column": 2 },
+            "end": { "line": 12, "column": null }
+          }
+        ]
+      },
+      "2": {
+        "loc": {
+          "start": { "line": 22, "column": 2 },
+          "end": { "line": 24, "column": null }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 22, "column": 2 },
+            "end": { "line": 24, "column": null }
+          }
+        ]
+      }
+    },
+    "s": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "f": { "0": 0, "1": 0 },
+    "b": { "0": [0, 0], "1": [0], "2": [0] }
+  }
+}
